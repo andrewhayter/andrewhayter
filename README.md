@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrewhayter" alt="andrewhayter" /></a> </p>
 
-- 🌱 I’m currently learning *****Rust**
+- 🌱 I’m currently learning **Rust 🦀**
 
 - 💬 Ask me about **React, Typescript, Rust, DeFi, Crypto & FinTech**
 
