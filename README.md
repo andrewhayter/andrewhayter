@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, Typescript, Rust, DeFi, Crypto & FinTech**
 
-- 📫 How to reach me **adrewhayter@gmail.com**
+- 📫 How to reach me **andrewhayter@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
